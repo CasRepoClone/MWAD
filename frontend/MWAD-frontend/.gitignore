@@ -22,3 +22,13 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Environmental variables
+.env
+env
+./backend/env
+./backend/.env
+./frontend/.env
+./frontend/env
+./frontend/MWAD-frontend/.env
+./frontend/MWAD-frontend/env
