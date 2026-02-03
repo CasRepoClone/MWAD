@@ -1,0 +1,1 @@
+<p> i assume we will need to do UX/UI so a quick idea of how we want it to look even if its simple is ideal </p>

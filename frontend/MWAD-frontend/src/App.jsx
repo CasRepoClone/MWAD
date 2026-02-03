@@ -2,11 +2,9 @@ import { useState } from 'react'
 
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-      <p> lorem ipsum dolor</p>
+      <p>This page should the entrypoint</p>
     </>
   )
 }
