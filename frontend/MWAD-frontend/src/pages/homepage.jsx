@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import "../styles/root_styles.scss";
 
 
 function Index() {
